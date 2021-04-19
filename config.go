@@ -54,7 +54,7 @@ var (
 		GT:   ">",
 		LTE:  "<=",
 		GTE:  ">=",
-		LIKE: "LIKE",
+		LIKE: "ILIKE",
 		OR:   "OR",
 		AND:  "AND",
 	}
